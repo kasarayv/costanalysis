@@ -4,19 +4,19 @@ This respository holds the raw compiled data for the experiments on cost analysi
 ## Benchmarks  
 The following benchmarks were used for the analysis experiments.
 
-|Combinational Circuits||Sequential Circuits|
-|ISCAS '85 benchmarks||ITC '99 benchmarks|
-|:--------------------:|---|:-----------------:|
-|c432 ||b04|
-|c499 ||b05|
-|c880 ||b07|
-|c1355||b11|
-|c1908||b12|
-|c2670||b13|
-|c3540||b14|
-|c5315||b15|
-|c6288||b21|
-|c7552||b22|
+|Combinational Circuits|Sequential Circuits|
+|ISCAS '85 benchmarks|ITC '99 benchmarks|
+|:--------------------:|:-----------------:|
+|c432 |b04|
+|c499 |b05|
+|c880 |b07|
+|c1355|b11|
+|c1908|b12|
+|c2670|b13|
+|c3540|b14|
+|c5315|b15|
+|c6288|b21|
+|c7552|b22|
 
 ISCAS '85 benchmarks were obtained from [http://www.pld.ttu.ee/~maksim/benchmarks/iscas85/verilog/](http://www.pld.ttu.ee/~maksim/benchmarks/iscas85/verilog/).  
 ITC '99 benchmarks were obtained from [https://github.com/squillero/itc99-poli](https://github.com/squillero/itc99-poli).  
