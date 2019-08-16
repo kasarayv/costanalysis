@@ -6,7 +6,7 @@ The following benchmarks were used for the analysis experiments.
 
 |Combinational Circuits||Sequential Circuits|
 |ISCAS '85 benchmarks||ITC '99 benchmarks|
-|:--------------------:||:-----------------:|
+|:--------------------:|---|:-----------------:|
 |c432 ||b04|
 |c499 ||b05|
 |c880 ||b07|
